@@ -79,5 +79,6 @@ https://github.com/hansw90/NLP-natural-language-processing-/blob/master/NLP/Word
 
 - Document Similarity : 문서 유사도
   - 유클리드 거리
-  - 자카드 유사도
+  - 자카드 유사도  
+
 https://github.com/hansw90/NLP/blob/master/NLP/DocumentSimilarity.ipynb
