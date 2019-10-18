@@ -82,3 +82,7 @@ https://github.com/hansw90/NLP-natural-language-processing-/blob/master/NLP/Word
   - 자카드 유사도  
 
 https://github.com/hansw90/NLP/blob/master/NLP/DocumentSimilarity.ipynb
+
+
+- BERT-BTC
+  - The A-to-Z guide on how you can use Google’s BERT for binary text classification tasks. I’ll be aiming to explain, as simply and straightforwardly as possible, how to fine-tune a BERT model (with PyTorch) and use it for a binary text classification task.
