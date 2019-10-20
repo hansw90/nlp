@@ -86,3 +86,7 @@ https://github.com/hansw90/NLP/blob/master/NLP/DocumentSimilarity.ipynb
 
 - BERT-BTC
   - The A-to-Z guide on how you can use Google’s BERT for binary text classification tasks. I’ll be aiming to explain, as simply and straightforwardly as possible, how to fine-tune a BERT model (with PyTorch) and use it for a binary text classification task.
+
+
+- Attention 완전 뽀개기 
+https://github.com/hansw90/NLP/blob/master/NLP/Attention_PaperDetail.ipynb
