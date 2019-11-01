@@ -90,3 +90,7 @@ https://github.com/hansw90/NLP/blob/master/NLP/DocumentSimilarity.ipynb
 
 - Attention 완전 뽀개기 
 https://github.com/hansw90/NLP/blob/master/NLP/Attention_PaperDetail.ipynb
+
+
+- A Structured Self-Attentive Sentence Embedding
+  
