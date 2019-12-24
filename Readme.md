@@ -1,7 +1,7 @@
 # 자연어처리 학습 및 논문 정리를 위한 페이지입니다.
 
 ***
-
+ 
 ## NLP 폴더
 
 - Bert_EmbeddingLayer.ipynb : 벌트 개념정리
