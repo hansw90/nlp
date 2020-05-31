@@ -1,5 +1,5 @@
 # 확률과 통계 
-https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V
+https://www.youtube.com/playlist?list=PLSN_PltQeOyjmRIsC7VNirXOBqWoypd4V  
 위 강의 정리 및 python 코드로 구현해보기
 
 필기자료 
