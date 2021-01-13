@@ -44,7 +44,7 @@ https://github.com/hansw90/NLP-natural-language-processing-/blob/master/NLP/Simp
 https://github.com/hansw90/NLP-natural-language-processing-/blob/master/NLP/VanilaRNN.ipynb
 
 - Word_embedding_basic.ipynb
-  - 쉽게 쓰인 word2vec
+  - 쉽게 쓰인 word2vec  
   - 단어 임베딩(Word Embedding) 맛보기
   - Sparse vs. Dense Representataions
   - Sparse representataion
